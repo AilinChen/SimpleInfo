@@ -1,0 +1,125 @@
+{
+  "description": "pediastrican patients basic info data",
+    "g1": [
+      {
+        "name": "Lucas",
+        "age": "11 mths",
+        "gender": "M",
+        "language": "",
+        "special": "Hepatitis B"
+      }, {
+        "name": "Kiki",
+        "age": "7 mths",
+        "gender": "F",
+        "language": "",
+        "special": ""
+      }, {
+        "name": "Nora",
+        "age": "11 days",
+        "gender": "F",
+        "language": "",
+        "special": "Prematurity"
+      }
+    ],
+
+    "g2": [
+      {
+        "name": "Lola",
+        "age": "2 yrs",
+        "gender": "F",
+        "language": "Spanish",
+        "special": ""
+      }, {
+        "name": "Zac",
+        "age": "1 yrs",
+        "gender": "M",
+        "language": "",
+        "special": ""
+      }, {
+        "name": "Chloe",
+        "age": "3 yrs",
+        "gender": "F",
+        "language": "",
+        "special": "Asthma"
+      }, {
+        "name": "Nia",
+        "age": "2 yrs",
+        "gender": "F",
+        "language": "",
+        "special": ""
+      }, {
+        "name": "Franky",
+        "age": "2 yrs",
+        "gender": "F",
+        "language": "",
+        "special": "Asthma"
+      }
+    ],
+
+    "g3": [
+      {
+        "name": "Henry",
+        "age": "11 yrs",
+        "gender": "M",
+        "language": "German",
+        "special": ""
+      }, {
+        "name": "Lacey",
+        "age": "6 years",
+        "gender": "F",
+        "language": "French",
+        "special": ""
+      }, {
+        "name": "David",
+        "age": "8 yrs",
+        "gender": "M",
+        "language": "",
+        "special": ""
+      }, {
+        "name": "Mateo",
+        "age": "10 years",
+        "gender": "M",
+        "language": "Spaish",
+        "special": ""
+      }
+    ],
+
+    "g4": [
+      {
+        "name": "Thomas",
+        "age": "14 yrs",
+        "gender": "M",
+        "language": "",
+        "special": ""
+      }, {
+        "name": "Leo",
+        "age": "13 yrs",
+        "gender": "M",
+        "language": "",
+        "special": "Nut allergies"
+      }, {
+        "name": "Max",
+        "age": "16 yrs",
+        "gender": "F",
+        "language": "",
+        "special": "Hearing loss"
+      }, {
+        "name": "Carly",
+        "age": "17 yrs",
+        "gender": "F",
+        "language": "",
+        "special": ""
+      }
+    ],
+
+    "g5": [
+      {
+        "name": "Diego",
+        "age": "20 yrs",
+        "gender": "M",
+        "language": "Spanish",
+        "special": "Asthma"
+      }
+    ]
+
+}
