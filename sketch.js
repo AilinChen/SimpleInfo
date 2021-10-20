@@ -3,7 +3,7 @@ var app;
 //////////////////////////// home page ///////////////////////////////
 
 function preload(){
-  app = loadImage('img/logo.jpg');
+  app = loadImage('logo.jpg');
 }
 
 function setup() {

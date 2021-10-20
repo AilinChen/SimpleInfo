@@ -75,10 +75,10 @@ function draw() {
   view = createElement('h2', 'View data');
   view.position(133,588);
   view.mousePressed(jumpToThree);
-  fill("#7FBF7F");
+  fill("#E5F2E5");
   rect(45,600,290,50,10);
 
-  fill('#AEAEB2');
+  fill("#AEAEB2");
   textSize(16);
   text('enter a patient info below :',40,93);
   text('check before confirm',110,565);
